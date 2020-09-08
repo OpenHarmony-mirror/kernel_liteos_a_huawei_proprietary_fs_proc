@@ -1,0 +1,11 @@
+cscope*
+tags
+.vscode
+*.o
+.idea
+*.img
+*.swp
+*.rej
+*.orig
+*.a
+*.so
